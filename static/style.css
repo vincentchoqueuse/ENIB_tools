@@ -1,0 +1,19 @@
+h1{
+    padding-bottom:40px;
+  }
+  
+  .logo{
+    width:70px;
+  }
+  
+  .bg-white{
+    border: 1px solid #ccc;
+  }
+  
+  .valid{
+     background-color: #e9ecef !important;
+  }
+  
+  .invalid{
+     background-color: red!important;
+  }
